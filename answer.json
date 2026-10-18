@@ -1,0 +1,17 @@
+{
+    "A": {
+        "text": "Report job-de550869: caf\u00e9\nReady \u2713",
+        "complete": true,
+        "error": null
+    },
+    "B": {
+        "text": "Partial job-de550869",
+        "complete": false,
+        "error": null
+    },
+    "C": {
+        "text": "Draft job-de550869",
+        "complete": false,
+        "error": "model unloaded"
+    }
+}
